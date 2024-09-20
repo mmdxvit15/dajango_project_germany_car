@@ -1,0 +1,1 @@
+# dajango_project_germany_car
